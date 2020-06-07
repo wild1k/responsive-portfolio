@@ -23,30 +23,56 @@
           </div>
             
     </header>
-    <nav>
+    <div>
+        <nav>
         <!--nav bar links styled to right -->
-        <div>
+            <div>
             <!--nav = navbar expand = fit to screen secondary = color content-end = align text right-->
-            <ul class="nav navbar-expand bg-secondary justify-content-end">
+                <ul class="nav navbar-expand bg-secondary justify-content-end">
                 <!--nav link ref in css styles links-->
-                <li class="nav-item">
-                <a class="nav-link active" href="#">About</a>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link active" href="#">Portfolio</a>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link active" href="#">Contact</a>
-                </li>
-            </ul>
-        </div>    
-    </nav>
+                    <li class="nav-item">
+                    <a class="nav-link active" href="#">About</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link active" href="#">Portfolio</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link active" href="#">Contact</a>
+                    </li>
+                    </ul>
+            </div>    
+        </nav>
+    </div>   
     <section>
-        <article>
-            <!---write something cool after looking at examples on line-->
-            <p>Something cool about me.</p>
-        </article>
+        <!---About me Card-->
+        <div id="about">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <div id="aboutText">
+                            <div class="card border-secondary m-5 p-5">
+                                <div class="card-header">
+                                    <h2 class="mx-auto" style="width: 200px">About Me</h2>
+                                        <div class="image">
+                                            <div class="card-body">
+                                                 
+                                                <img src="C:\Users\SMSU2\OneDrive\Pictures\Mobile uploads\linkedin pic (2).JPG" width="200" height="350" class="img-fluid rounded mb-5" alt="profile picture">
+                                               
+                                                    <p class="text-right"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequatur, amet veniam ea quasi esse eveniet. Fuga, accusamus at in dolores ullam modi inventore asperiores itaque aut ad neque commodi accusantium! Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, explicabo sapiente asperiores voluptas in animi maxime delectus ipsum, porro libero, eligendi magnam nesciunt. Placeat possimus incidunt quasi, amet veniam maxime?</p> 
+                                            </div>
+                                        </div>
+                                </div>
 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+
+        </div>
+        
     </section>
     <!---JQuery to support Bootstrap components-->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
