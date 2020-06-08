@@ -23,3 +23,7 @@ body {
 .border-secondary {
     border-width: 10px;
 }
+
+.footerColor {
+    background-color: gray;
+}
