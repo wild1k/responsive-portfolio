@@ -26,12 +26,13 @@ body {
 .footerColor {
     border-style: solid;
     border-width: 1px;
-    border-color: white;
+    border-color:blueviolet;
     padding: 3px;
-    color: white;
+    color: hotpink;
     bottom: 0;
     left: 0;
     width: 100%;
+    
 
 }
 
@@ -63,5 +64,11 @@ body {
 p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 25px;
+    text-indent: 25px;
 }
 
+.btnColor {
+    background-color:rgb(238, 235, 46) ;
+    color: rgb(187, 25, 173);
+    opacity: .5;
+}

@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <!--special font for header -->
     <link href="https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap" rel="stylesheet">
-    
+    <script src="https://kit.fontawesome.com/49d4c81a50.js" crossorigin="anonymous"></script>
     <title>Cassandra's Professional Portfolio</title>
     
     
@@ -18,18 +18,21 @@
         <div class="jumbotron jumbotron-fluid">
             <div class="container">
               <h1 class="display-4">Cassandra Chamberlain</h1>
+              <div>
+                <a class="btn btnColor" href="https://www.linkedin.com/in/cassandra-chamberlain-875794166/"><i class="fab fa-linkedin"></i></a>
+              </div>
                 <nav>
                     <ul class="nav justify-content-end">
                         <li class="nav-item">
-                        <a class="nav-link active" href="#">About</a>
+                        <a class="nav-link active" href="index.html">About</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" href="#">Portfolio</a>
+                        <a class="nav-link" href="portfolio.html">Portfolio</a>
                         </li>
                         <li class="nav-item">
-                         <a class="nav-link" href="#">Contact</a>
+                         <a class="nav-link" href="contact.html">Contact</a>
                         </li>
-              
+                       
                     </ul>
            
                 </nav>   
@@ -45,7 +48,7 @@
                 <form>
                     <div class="row">
                         
-                        <div class="form-row ml-1 align-items-center col-8">
+                        <div class="form-row ml-1 col-12">
                         
                           <label>Name</label>
                           <input type="text" class="form-control mb-2" id="inlineFormInput" placeholder="Jane Doe">
@@ -53,7 +56,7 @@
                         </div>
             
                     
-                        <div class="form-group ml-1 col-8 row">
+                        <div class="form-group ml-1 col-12 row">
                     
                             <label for="exampleInputEmail1">Email Address</label>
                             <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
@@ -61,10 +64,10 @@
                         </div>
                 
                      
-                        <div class="form-group ml-1 col-8 row">
+                        <div class="form-group ml-1 col-12 row">
 
                             <label>Message</label>
-                            <input type="text" class="form-control">
+                            <textarea type="text" class="form-control" rows="5"></textarea>
 
                         </div>
                     
@@ -79,12 +82,15 @@
             </div>
         </div>
     </div>
-    
+     <!---JQuery to support Bootstrap components-->
+     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+ 
    
-
-<footer class="vw-auto vh-auto d-flex justify-content-center footerColor footerBottom">
-    Author: Cassandra Chamberlain
-</footer>
+     <footer class="vw-auto vh-auto d-flex justify-content-center footerColor">
+        Author: Cassandra Chamberlain
+    </footer>
 </body>
  
 
