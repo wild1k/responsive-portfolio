@@ -34,7 +34,7 @@ body {
 
 .cardName {
     font-family: 'Metal Mania', cursive;
-    font-size: 40px;
+    font-size: 50px;
 }
 
 
@@ -59,6 +59,7 @@ p {
 
 
 .footerColor {
+    position: bottom;
     border-style: solid;
     border-width: 1px;
     border-color:blueviolet;
@@ -68,3 +69,4 @@ p {
     left: 0;
     width: 100%;
 }
+
