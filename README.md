@@ -1,20 +1,10 @@
 
  responsive-portfolio project
 
-create a 3-page website that will act as a portfolio for me when applying to jobs.
 
-The About me page will tell about who I am through the use of:
-  1. What I write about myself in the About Me section
-  2. The way I designed the webpage
-  3. With the links to my LinkedIn Profile; which will allow the viewer to access more information about myself.
-  
-      If I have effectively achieved this goal, please note the following:
-        1. I am new to web development, but I am excited and eager to learn.
-        2. I like a very sleek and minimalist webpage
-        3. I am on social media platforms, to help network in my field.
-  
-  The portfolio page will act as a template for now but will later:
-  1. Will allow me to quickly and easily attach my projects as I make them throughout the class.
-  2. I will showcase my talents, abilities, and strengths to a potential employer.
-  
-  The contact page will simply allow the user a way to contact me by allowing them to submit their email and a message.
+When people view my portfolio website, Then they will know more about me professionally and personally.  
+When they view my pages they will be presented with links, Then these links will take them to my linkenin, github, and to a variety of my work. 
+This portfolio page will showcase my skills and abilities through the use of my knoweledge base of web design. 
+The About me page will tell about who I am through the use of the About Me section, design aesthetic, and links.
+
+The portfolio page acts as a template for quickly accessing my work. and easily showcase my talents, abilities, and strengths to a potential employer.
