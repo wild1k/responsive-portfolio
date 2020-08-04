@@ -1,7 +1,7 @@
 
  responsive-portfolio project
 
-create a 3-page website that will act as a portfolio for me when applying to jobs.
+
 When people view my portfolio website, Then they will know more about me professionally and personally.  
 When they view my pages they will be presented with links, Then these links will take them to my linkenin, github, and to a variety of my work. 
 This portfolio page will showcase my skills and abilities through the use of my knoweledge base of web design. 
