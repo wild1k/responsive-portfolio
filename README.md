@@ -8,9 +8,9 @@ This portfolio page will showcase my skills and abilities through the use of my 
 The About me page will tell about who I am through the use of the About Me section, design aesthetic, and links.
 
 The portfolio page acts as a template for quickly accessing my work. and easily showcase my talents, abilities, and strengths to a potential employer.
-![desktop aboutpage](pic lib\portfolioabout.png);
-![mobile portfolio](pic lib\mobileportfolio.png);
-![desktop contact](pic lib\portfoliocontact.png);
+[!desktop aboutpage](pic lib\portfolioabout.png);
+[!mobile portfolio](pic lib\mobileportfolio.png);
+[!desktop contact](pic lib\portfoliocontact.png);
 
 
 
